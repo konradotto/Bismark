@@ -3,6 +3,8 @@
 
 # Bismark
 
+With SonarCloud analysis.
+
 Bismark is a program to map bisulfite treated sequencing reads to a genome of interest and perform methylation calls in a single step. The output can be easily imported into a genome viewer, such as [SeqMonk](http://www.bioinformatics.babraham.ac.uk/projects/seqmonk/), and enables a researcher to analyse the methylation levels of their samples straight away. It's main features are:
 
 * Bisulfite mapping and methylation calling in one single step
